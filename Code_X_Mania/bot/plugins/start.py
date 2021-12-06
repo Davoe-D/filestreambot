@@ -211,7 +211,7 @@ async def help_handler(bot, message):
             
           reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("😇Donate", url="https://paypal.me/")]
+                [InlineKeyboardButton("😇Donate", url="https://paypal.me/rahulrahaman")]
             ]
         )
     )
